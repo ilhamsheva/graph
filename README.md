@@ -8,19 +8,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profil GitHub Ilham Sheva Renggafiarto</title>
 </head>
 <body>
     <h1>Halo, saya Ilham Sheva Renggafiarto!</h1>
     <p>👋 Selamat datang di profil GitHub saya! Saya seorang mahasiswa yang antusias dan bersemangat dalam belajar serta mengembangkan keterampilan saya di dunia pemrograman dan teknologi.</p>
-    <p>🌱 Saat ini saya sedang menempuh pendidikan di <strong>[nama universitas]</strong>, jurusan <strong>[nama jurusan]</strong>.</p>
-    <p>🔭 Saya tertarik dengan pengembangan perangkat lunak, khususnya dalam <strong>[sebutkan bidang minat, misalnya: pengembangan web, kecerdasan buatan, atau data science]</strong>.</p>
-    <p>💻 Saya suka mengerjakan proyek-proyek yang menantang dan selalu berusaha untuk belajar teknologi-teknologi baru.</p>
+    <p>🌱 Saat ini saya sedang menempuh pendidikan di <strong>Universitas Esa Unggul</strong>, jurusan <strong>Teknik Informatika</strong>.</p>
+    <p>🔭 Saya tertarik dengan pengembangan perangkat lunak, khususnya dalam <strong>pemrograman mobile, artificial intelligence</strong>.</p>
+    <p>💻 Saya suka belajar teknologi-teknologi baru.</p>
     <p>🛠 Beberapa bahasa pemrograman dan teknologi yang saya gunakan:</p>
     <ul>
-        <li><strong>[Sebutkan bahasa pemrograman dan teknologi yang dikuasai, misalnya: Python, JavaScript, HTML, CSS, React, Node.js, dsb.]</strong></li>
+        <li><strong>C++, Python, Java</strong></li>
     </ul>
-    <p>📫 Jangan ragu untuk menghubungi saya melalui <strong>[email atau media sosial]</strong> jika Anda ingin berdiskusi lebih lanjut atau berkolaborasi dalam proyek-proyek menarik!</p>
     <p>Terima kasih telah mengunjungi profil saya. Mari kita belajar dan berkembang bersama! 🚀</p>
 </body>
 </html>
