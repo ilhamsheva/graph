@@ -3,22 +3,23 @@
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1>Halo, saya Ilham Sheva Renggafiarto!</h1>
-    <p>👋 Selamat datang di profil GitHub saya! Saya seorang mahasiswa yang antusias dan bersemangat dalam belajar serta mengembangkan keterampilan saya di dunia pemrograman dan teknologi.</p>
-    <p>🌱 Saat ini saya sedang menempuh pendidikan di <strong>Universitas Esa Unggul</strong>, jurusan <strong>Teknik Informatika</strong>.</p>
-    <p>🔭 Saya tertarik dengan pengembangan perangkat lunak, khususnya dalam <strong>pemrograman mobile, artificial intelligence</strong>.</p>
-    <p>💻 Saya suka belajar teknologi-teknologi baru.</p>
-    <p>🛠 Beberapa bahasa pemrograman dan teknologi yang saya gunakan:</p>
-    <ul>
-        <li><strong>C++, Python, Java</strong></li>
-    </ul>
-    <p>Terima kasih telah mengunjungi profil saya. Mari kita belajar dan berkembang bersama! 🚀</p>
-</body>
-</html>
+<div align="center">
+    <h2>🚀 About Me</h2>
+<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
+    <p>I'm a student at Esa Unggul University majoring in Informatics Engineering. I'm currently learning the basics of programming and continuing to develop my skills in various languages ​​and technologies. I'm always looking for opportunities to learn something new and contribute to the programming community.</p>
+</div>
+
+<div align="center">
+<h2 align="center" class="section-heading">🌐 Let's Connect with Me</h2>
+<div align="center">
+  <a href="www.linkedin.com/in/ilham-sheva-renggafiarto-046682257">
+    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/ilhamshvr/">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Instagram&logoColor=white" alt="Linktree"/>
+  </a>
+<a href="https://github.com/ZanePearton/ZanePearton" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
+</div>
