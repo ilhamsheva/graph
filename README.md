@@ -13,10 +13,10 @@
 <h2 align="center" class="section-heading">🌐 Let's Connect with Me</h2>
 <div align="center">
   <a href="www.linkedin.com/in/ilham-sheva-renggafiarto-046682257">
-    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/IlhamSheva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/ilhamshvr/">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Instagram&logoColor=white" alt="Linktree"/>
+    <img src="https://img.shields.io/badge/Instagram-39E09B?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
 <a href="https://github.com/ZanePearton/ZanePearton" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
