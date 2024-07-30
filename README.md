@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-    <h2>🚀 About Me</h2>
+    <h2>🚀 About Ilham</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>I'm a student at Esa Unggul University majoring in Informatics Engineering. I'm currently learning the basics of programming and continuing to develop my skills in various languages ​​and technologies. I'm always looking for opportunities to learn something new and contribute to the programming community.</p>
 </div>
