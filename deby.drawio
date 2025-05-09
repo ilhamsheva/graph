@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.1">
   <diagram name="Page-1" id="J3hV0z_-zYhX4EZDe8K3">
-    <mxGraphModel dx="1903" dy="1454" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1903" dy="1454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,12 +10,11 @@
         <mxCell id="qH5x3utSdqsIQXP25AVT-1" value="Paparan Asap Rokok" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="492" y="-201" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qH5x3utSdqsIQXP25AVT-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="qH5x3utSdqsIQXP25AVT-2" target="qH5x3utSdqsIQXP25AVT-12">
+        <mxCell id="qH5x3utSdqsIQXP25AVT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="qH5x3utSdqsIQXP25AVT-2" target="qH5x3utSdqsIQXP25AVT-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="501.5" y="51" as="sourcePoint" />
-            <mxPoint x="502" y="1040" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="58" y="458" />
+              <mxPoint x="330" y="51" />
+              <mxPoint x="330" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -77,18 +76,14 @@
         <mxCell id="qH5x3utSdqsIQXP25AVT-12" value="Penurunan status gizi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="478" y="1010" width="148" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qH5x3utSdqsIQXP25AVT-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="qH5x3utSdqsIQXP25AVT-13" target="qH5x3utSdqsIQXP25AVT-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1010" y="824" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="qH5x3utSdqsIQXP25AVT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="qH5x3utSdqsIQXP25AVT-13" target="qH5x3utSdqsIQXP25AVT-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qH5x3utSdqsIQXP25AVT-13" value="Pola makan tidak sehat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="727" y="413" width="169" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qH5x3utSdqsIQXP25AVT-14" value="Faktor sosial ekonomi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="232" width="208" height="150" as="geometry" />
+          <mxGeometry x="1040" y="234" width="208" height="150" as="geometry" />
         </mxCell>
         <mxCell id="qH5x3utSdqsIQXP25AVT-15" value="pendidikan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="qH5x3utSdqsIQXP25AVT-14">
           <mxGeometry y="30" width="208" height="30" as="geometry" />
@@ -114,13 +109,10 @@
             <mxPoint x="945" y="213" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qH5x3utSdqsIQXP25AVT-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=-0.019;exitY=0.16;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qH5x3utSdqsIQXP25AVT-14" target="qH5x3utSdqsIQXP25AVT-13">
+        <mxCell id="qH5x3utSdqsIQXP25AVT-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=-0.019;exitY=0.16;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="qH5x3utSdqsIQXP25AVT-14" target="qH5x3utSdqsIQXP25AVT-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="971" y="353" as="sourcePoint" />
             <mxPoint x="1021" y="303" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="918" y="294" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
